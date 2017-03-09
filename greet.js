@@ -1,5 +1,5 @@
 function greet(name) {
-    "use strict";
+    'use strict';
     var result = 'Hello, ' + name;
     return result;
 }
